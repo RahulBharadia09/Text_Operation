@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 # Screenshots of the website
-![1] (text_Utility.png)
+![1] (Text_utility.png)
 
 ## Available Scripts
 
