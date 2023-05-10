@@ -22,7 +22,7 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
 
 ### `Screenshot of website`
-![Screenshot1!] (D:\React Projects\textutility\Text_utility.png)
+![Screenshot1!](Text_utility.jpg)
 
 ### `npm run build`
 
