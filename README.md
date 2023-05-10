@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-![Screenshot1] (Text_utility.png)
+![Screenshot1](D:\React Projects\textutility\Text_utility.png)
 
 ## Available Scripts
 
