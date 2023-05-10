@@ -2,7 +2,6 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-![Screenshot1](D:\React Projects\textutility\Text_utility.png)
 
 ## Available Scripts
 
@@ -20,6 +19,10 @@ You may also see any lint errors in the console.
 
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+
+
+### `Screenshot of website`
+![Screenshot1!] (D:\React Projects\textutility\Text_utility.png)
 
 ### `npm run build`
 
